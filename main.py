@@ -12,4 +12,4 @@ if (response.status_code == 200):
     print text
 
 else:
-    print('Request Wrong!')
+    print('Request Wronga!')
