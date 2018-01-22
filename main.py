@@ -4,7 +4,7 @@ import os
 
 print 'URL : '
 url = raw_input()
-print 'Lang : '
+print 'Select Lang : '
 lang = raw_input()
 
 if(lang == 'pt'):
